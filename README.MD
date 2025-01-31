@@ -23,7 +23,7 @@
 </p>
 
 <div align="center">
-    [PodCast](output/podcast_.mp4)
+    [PodCast](https://github.com/handersongodias/prompts-for-podcast-generate-by-ia/blob/main/output/podcast_.mp4)
 </div>
 
 # Projeto Podcast Gerado por I.A.s
