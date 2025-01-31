@@ -58,19 +58,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `LeonardoAI`
 
-## 👨‍💻 
-
-<p>
-   
-    <a 
-        href="https://github.com/handersongodias">
-        GitHub
-    </a>
- 
-</p>
-<br/><br/>
-<p>
 
 ---
 
-⌨️ com 💜 por [Handerson Dias](https://github.com/handersongodias)
+por [Handerson Dias](https://github.com/handersongodias)
